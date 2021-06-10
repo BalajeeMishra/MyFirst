@@ -1,4 +1,4 @@
-# submitted to DR.RANJEETA DAS BY BALAJEE MISHRA.
+# submitted to Dr. Ranjita Das by Balajee Mishra.
 # python implementation of Grey wolf optimization (GWO)
 # minimizing rastrigin and sphere function
 
